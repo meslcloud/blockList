@@ -1,7 +1,7 @@
 regexp:.*(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)\.(map\.)?(baidu|n\.shifen)\.com
 regexp:.*((^|\.)360|(^|\.)0360|(^|\.)1360|(^|\.)3600|360safe|(^|\.)so|qhimg|qhmsg|qi­hoo|qhcdn|qhup­date|360­to­talse­cu­rity|360shouji|qi­hucdn|360kan)\.(cn|com|net)
 regexp:(ed2k:|\.torrent|torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce\.php\?passkey=|magnet:|xunlei|Thunder|XL­LiveUD|bt_key|p2p)
-regexp:(bt protocol)
+regexp:(bt protocol|pincong)
 regexp:(Subject|HELO|SMTP)
 regexp:.*(dafahao|minghui|dongtaiwang|epochtimes|ntdtv|falundafa|wujieliulan|zhengjian|falunaz)\.(org|com|net)
 regexp:.*(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168)\.(info|biz|com|de|net|org|me|la)
@@ -12,5 +12,4 @@ regexp:.*(ad-safe)\.(com)
 regexp:.*(netvigator|torproject)\.(cn|com|net|org)
 regexp:.*(gov|12377|12315|talk\.news\.pts\.org|creaders|zhuichaguoji|efcc\.org|cyberpolice|aboluowang|tuidang|epochtimes|dahao|falundafa|minghui|falunaz|zhengjian|110\.qq|mingjingnews|inmediahk|xinsheng|bannedbook|ntdtv|falungong|12321|secretchina|epochweekly|cn\.rfi)\.(cn|com|org|net|club|fr|tw|hk)
 regexp:.*(gash|mycard)\.(com|tw)
-regexp:(pincong)
 port:6881-6889,5060,6969,45682
