@@ -12,4 +12,4 @@ regexp:.*(ad-safe)\.(com)
 regexp:.*(netvigator|torproject)\.(cn|com|net|org)
 regexp:.*(gov|12377|12315|talk\.news\.pts\.org|creaders|zhuichaguoji|efcc\.org|cyberpolice|aboluowang|tuidang|epochtimes|dahao|falundafa|minghui|falunaz|zhengjian|110\.qq|mingjingnews|inmediahk|xinsheng|bannedbook|ntdtv|falungong|12321|secretchina|epochweekly|cn\.rfi)\.(cn|com|org|net|club|fr|tw|hk)
 regexp:.*(gash|mycard)\.(com|tw)
-port:6881-6889,5060,6969,53,22,10000-65535
+port:6881-6889,5060,6969,53,22
